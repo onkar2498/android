@@ -1,4 +1,4 @@
 {
-  "updateMode":"Constants.UpdateMode.IMMEDIATE",
+  "updateMode":"IMMEDIATE",
   "appVersion":"1"
 }
