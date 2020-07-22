@@ -3,48 +3,48 @@
 				"templeName":"Narsobachi Wadi",
 				"placeSpeciality":"Shri Narasimhasaraswati lived for 12 years",
 				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
-				"start_color":"@color/gradientLightYellow",
-				"end_color":"@color/gradientOrange"
+				"start_color":"#FFA72F",
+				"end_color":"#FF416C"
 				
 		},
 		{
 				"templeName":"Audumbar",
 				"placeSpeciality":"Shri Narasimha-Saraswati performed Chaturmas.",
 				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
-				"start_color":"@color/gradientLightYellow2",
-				"end_color":"@color/gradientLightOrange2"
+				"start_color":"#FFA72F2",
+				"end_color":"#FF7765"
 				
 		},
 		{
 				"templeName":"Shri Kshetra Kuravpur (Kurgaddi)",
 				"placeSpeciality":"Tapobhumi, a great place for meditation, worship",
 				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
-				"start_color":"@color/gradientLightOrange2",
-				"end_color":"@color/gradientOrange3"
+				"start_color":"#FF7765",
+				"end_color":"#FF416C3"
 				
 		},
 		{
 				"templeName":"Shri Kshetra Peethapur",
 				"placeSpeciality":"Birthplace of Shripad",
 				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
-				"start_color":"@color/gradientViolet",
-				"end_color":"@color/gradientLightBlue"
+				"start_color":"#8A52E9",
+				"end_color":"#376DF6"
 				
 		},
 		{
 				"templeName":"Kardalivan",
 				"placeSpeciality":"Sri Swami Pravasthana, Sri Nrisihasaraswati Maharaj Paduka, Tapasthan",
 				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
-				"start_color":"@color/gradientLightGreen",
-				"end_color":"@color/gradientLightBlue"
+				"start_color":"#21E8AC",
+				"end_color":"#376DF6"
 				
 		},
 		{
 				"templeName":"Shri Kshetra Mangaon",
 				"placeSpeciality":"W. E. Birthplace of Tembe Swami",
 				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
-				"start_color":"@color/gradientLightYellow",
-				"end_color":"@color/gradientOrange"
+				"start_color":"#FFA72F",
+				"end_color":"#FF416C"
 				
 		}
 	]
