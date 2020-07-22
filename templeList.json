@@ -1,0 +1,52 @@
+{
+	"templeList":[
+		{
+				"templeName":"Narsobachi Wadi",
+				"placeSpeciality":"Shri Narasimhasaraswati lived for 12 years",
+				"placeImagePath":"",
+				"":"",
+				"":""
+				
+		},
+		{
+				"templeName":"Audumbar",
+				"placeSpeciality":"Shri Narasimha-Saraswati performed Chaturmas.",
+				"placeImagePath":"",
+				"":"",
+				"":""
+				
+		},
+		{
+				"templeName":"Shri Kshetra Kuravpur (Kurgaddi)",
+				"placeSpeciality":"Tapobhumi, a great place for meditation, worship",
+				"placeImagePath":"",
+				"":"",
+				"":""
+				
+		},
+		{
+				"templeName":"Shri Kshetra Peethapur",
+				"placeSpeciality":"Birthplace of Shripad",
+				"placeImagePath":"",
+				"":"",
+				"":""
+				
+		},
+		{
+				"templeName":"Kardalivan",
+				"placeSpeciality":"Sri Swami Pravasthana, Sri Nrisihasaraswati Maharaj Paduka, Tapasthan",
+				"placeImagePath":"",
+				"":"",
+				"":""
+				
+		},
+		{
+				"templeName":"Shri Kshetra Mangaon",
+				"placeSpeciality":"W. E. Birthplace of Tembe Swami",
+				"placeImagePath":"",
+				"":"",
+				"":""
+				
+		}
+	]
+}
