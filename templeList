@@ -1,48 +1,54 @@
 [
 		{
+				"id":"1",
 				"templeName":"Narsobachi Wadi",
 				"placeSpeciality":"Shri Narasimhasaraswati lived for 12 years",
 				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
-				"start_color":"#FF416C",
-				"end_color":"#8A52E9"
+				"start_color":"#FFA72F",
+				"end_color":"#FF416C"
 				
 		},
 		{
+				"id":"2",
 				"templeName":"Audumbar",
 				"placeSpeciality":"Shri Narasimha-Saraswati performed Chaturmas.",
-				"placeImagePath":"https://cdn.s3waas.gov.in/s342a0e188f5033bc65bf8d78622277c4e/uploads/bfi_thumb/2018071826-olw8ax7u2ptf28e28mn2wgz01f3cchv60bf62y1toq.jpg",
-				"start_color":"#FFA72F",
+				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
+				"start_color":"#FFA72F2",
 				"end_color":"#FF7765"
 				
 		},
 		{
+				"id":"3",
 				"templeName":"Shri Kshetra Kuravpur (Kurgaddi)",
 				"placeSpeciality":"Tapobhumi, a great place for meditation, worship",
-				"placeImagePath":"https://www.mandirmandir.com/uploads/gallery/kuravpur.jpg",
+				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
 				"start_color":"#FF7765",
-				"end_color":"#FFC92B"
+				"end_color":"#FF416C3"
 				
 		},
 		{
+				"id":"4",
 				"templeName":"Shri Kshetra Peethapur",
 				"placeSpeciality":"Birthplace of Shripad",
-				"placeImagePath":"https://i.ytimg.com/vi/OJhncFD6adc/maxresdefault.jpg",
+				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
 				"start_color":"#8A52E9",
 				"end_color":"#376DF6"
 				
 		},
 		{
+				"id":"5",
 				"templeName":"Kardalivan",
 				"placeSpeciality":"Sri Swami Pravasthana, Sri Nrisihasaraswati Maharaj Paduka, Tapasthan",
-				"placeImagePath":"https://i.ytimg.com/vi/R-Gi6spLIiY/maxresdefault.jpg",
+				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
 				"start_color":"#21E8AC",
 				"end_color":"#376DF6"
 				
 		},
 		{
+				"id":"6",
 				"templeName":"Shri Kshetra Mangaon",
 				"placeSpeciality":"W. E. Birthplace of Tembe Swami",
-				"placeImagePath":"https://i.ytimg.com/vi/MmwS8qViYM8/hqdefault.jpg",
+				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
 				"start_color":"#FFA72F",
 				"end_color":"#FF416C"
 				
