@@ -3,49 +3,48 @@
 				"templeName":"Narsobachi Wadi",
 				"placeSpeciality":"Shri Narasimhasaraswati lived for 12 years",
 				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
-				"":"",
-				"":""
+				"start_color":"@color/gradientLightYellow",
+				"end_color":"@color/gradientOrange"
 				
 		},
 		{
 				"templeName":"Audumbar",
 				"placeSpeciality":"Shri Narasimha-Saraswati performed Chaturmas.",
 				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
-				"":"",
-				"":""
+				"start_color":"@color/gradientLightYellow2",
+				"end_color":"@color/gradientLightOrange2"
 				
 		},
 		{
 				"templeName":"Shri Kshetra Kuravpur (Kurgaddi)",
 				"placeSpeciality":"Tapobhumi, a great place for meditation, worship",
 				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
-				"":"",
-				"":""
+				"start_color":"@color/gradientLightOrange2",
+				"end_color":"@color/gradientOrange3"
 				
 		},
 		{
 				"templeName":"Shri Kshetra Peethapur",
 				"placeSpeciality":"Birthplace of Shripad",
 				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
-				"":"",
-				"":""
+				"start_color":"@color/gradientViolet",
+				"end_color":"@color/gradientLightBlue"
 				
 		},
 		{
 				"templeName":"Kardalivan",
 				"placeSpeciality":"Sri Swami Pravasthana, Sri Nrisihasaraswati Maharaj Paduka, Tapasthan",
 				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
-				"":"",
-				"":""
+				"start_color":"@color/gradientLightGreen",
+				"end_color":"@color/gradientLightBlue"
 				
 		},
 		{
 				"templeName":"Shri Kshetra Mangaon",
 				"placeSpeciality":"W. E. Birthplace of Tembe Swami",
 				"placeImagePath":"https://www.touristplaceskolhapur.com/wp-content/uploads/2018/09/narsobawadi_mandir.jpg",
-				"":"",
-				"":""
+				"start_color":"@color/gradientLightYellow",
+				"end_color":"@color/gradientOrange"
 				
 		}
 	]
-
